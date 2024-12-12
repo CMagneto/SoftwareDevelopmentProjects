@@ -9,7 +9,7 @@ _Aspiring Cybersecurity expert| Aspiring Python Developer | _
 
 ## Summary
 
-Current University of Michigan- Flint Cybersecurity student seeking part or full time entry level help desk position or other employment opportunities such as internships who is interested in learning to develop and apply AI, Machine Learning and Deep Learning technologies to various cybersecurity and other topics.
+Interested in learning to develop and apply AI, Machine Learning and Deep Learning technologies to various cybersecurity and other topics.
 
 ---
 
