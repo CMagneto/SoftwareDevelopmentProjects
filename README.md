@@ -1,5 +1,4 @@
-# SoftwareDevelopmentProjects
-# ResumeMaster
+# Software Development Projects
 # Damon Campbell
 
 _Aspiring Cybersecurity expert| Aspiring Python Developer | _
