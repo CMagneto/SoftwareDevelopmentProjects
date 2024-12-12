@@ -82,8 +82,8 @@ Interested in learning to develop and apply AI, Machine Learning and Deep Learni
 
 ## Projects
 
-- **[Cybersecurity Projects](https://github.com/johndoe/awesome-project):** Cybersecurity projects Developed in class and at home.  
-- **[Software Development Projects](https://github.com/johndoe/cool-project):** General projects developed in class and at home.  
+- **[Cybersecurity Projects](https://github.com/CMagneto/CybersecurityProjects):** Cybersecurity projects Developed in class and at home.  
+- **[Software Development Projects]():** General projects developed in class and at home.  
 
 ---
 
