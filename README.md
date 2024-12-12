@@ -12,12 +12,20 @@ _Aspiring Cybersecurity expert| Aspiring Python Developer | _
 Interested in learning to develop and apply AI, Machine Learning and Deep Learning technologies to various cybersecurity and other topics.
 
 ---
+<h2>📺 Practicing Skills from these Important YouTube Videos</h2>
+
+- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [Install Nessus for Free and scan for Vulnerabilities (New Way)](https://www.youtube.com/watch?v=Gy-aPBb0djk)
+
 
 ## Skills
 
 - **Programming:** Limited Classroom experience with Python, Classroom project experience with HTML, CSS, Javascript, Bootstrap framework, Node.js framework, Express.js framework, AWS, PostgreSQL and pgAdmin.
 - **Other Learning:** Some basic knowledge of DNS, Encrypted DNS, and Machine Learning
-- **Soft Skills:** Leadership, Team Collaboration, Problem Solving
+-
 
 ---
 
