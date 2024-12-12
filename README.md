@@ -3,7 +3,7 @@
 
 _Aspiring Cybersecurity expert| Aspiring Python Developer | _
 
-[Email](mailto:damaca@umich.edu) | [Portfolio](https://github.com/CMagneto) | [LinkedIn](https://github.com/CMagneto) | [GitHub](https://github.com/CMagneto)
+[Email](mailto:damaca@umich.edu) | [Portfolio](https://github.com/CMagneto) | [LinkedIn](https://www.linkedin.com/in/damon-campbell-58394231b/) | [GitHub](https://github.com/CMagneto)
 
 ---
 
